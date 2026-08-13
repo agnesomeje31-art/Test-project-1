@@ -1,0 +1,6 @@
+{
+  "name": "Glowing Skin - Premium Sales & Order Portal",
+  "description": "High-converting sales page for Glowing Skin products featuring lead order form, automatic WhatsApp message trigger to 07055609012, Excel sheet order exporter, and Google Apps Script automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
